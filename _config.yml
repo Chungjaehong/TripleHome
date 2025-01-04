@@ -22,8 +22,8 @@ title: 바른속기사무소
 email: barun_soky@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
   전문 속기사무소에서 제공하는 신속하고 정확한 속기 서비스. 회의, 법률 문서, 강연 등 다양한 속기 작업을 효율적으로 지원합니다. 온라인 예약 가능.
-baseurl: "/TripleHome/" # the subpath of your site, e.g. /blog
-url: "https://chungjaehong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://chungjaehong.github.io/TripleHome/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
