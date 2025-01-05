@@ -11,16 +11,16 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "제공업무"
       section: services
-    - title: "Portfolio"
+    - title: "요금안내"
       section: portfolio
     - title: "About"
       section: about
-    - title: "Timeline"
+    - title: "작성절차"
       section: timeline
-    - title: "Team"
-      section: team
+    # - title: "Team"
+    #   section: team
     - title: "Contact"
       section: contact
     - title: "Theme Source"

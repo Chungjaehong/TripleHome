@@ -1,22 +1,13 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  title: 녹취록
+  subtitle: 녹취록 비용안내.
+  thumbnail: /assets/img/portfolio/녹취록비용.png
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+title: 녹취록
+subtitle: 녹취록 비용안내.
+image: /assets/img/portfolio/녹취록비용.png #main image, can be a link or a file in assets/img/portfolio
+
 
 ---
-Use this area to describe your project. **Markdown** supported.
-
-optional info list (delete if not using):
-
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
-

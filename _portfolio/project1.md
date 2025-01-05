@@ -1,19 +1,12 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+title: 회의록
+subtitle: 회의록 비용안내
+image: /assets/img/portfolio/회의록비용.png
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: 회의록
+  subtitle: 회의록 비용안내.
+  thumbnail: /assets/img/portfolio/회의록비용.png
 ---
-
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-
 {:.list-inline}
-
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
