@@ -15,7 +15,7 @@ en: &DEFAULT_EN
     title2: 모두 고객님이 들려주신 말씀입니다. 
     title3: 정확한 기록, 신속한 서비스로 
     title4: 여러분의 소중한 순간을 지켜드립니다.
-    text: 신속, 정확, 신뢰.
+    text: 신속, 정확, 신뢰
     button: 상담 바로가기
     buttonlink: "#contact"
 

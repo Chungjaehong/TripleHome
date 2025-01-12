@@ -44,7 +44,29 @@
     </div>
   </nav>
   <!-- End Navigation -->
+  <style>
+    .dotted-line {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 20px 0;
+    }
   
+    .dot {
+      width: 10px;
+      height: 10px;
+      background-color: white; /* 점의 색상 */
+      border-radius: 50%;
+      margin: 5 10px;
+    }
+  
+    hr {
+      width: 50%; /* 선의 길이를 50%로 설정 */
+      border: 0;
+      border-top: 1px solid white; /* 선의 색상과 두께 */
+      margin: 0; /* 기본 여백 제거 */
+    }
+  </style>
   <!-- Header -->
   {% if site.locale and site.locale != "" and site.locale != nil %}
   <header class="masthead">
@@ -53,6 +75,14 @@
         {%- if site.data.sitetext[site.locale].header.text -%}
         <div class="intro-heading text-uppercase">
           <div class="title">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
+          <!-- <hr style="border: 1px solid white; width: 50%; margin: 20px auto;"> -->
+
+          <div class="dotted-line">
+            <span class="dot"></span>
+            <hr>
+            <span class="dot"></span>
+          </div>
+
           <div class="subtitle">
             <!-- {{ site.data.sitetext[site.locale].header.title | markdownify }} -->
             {{ site.data.sitetext[site.locale].header.title2 | markdownify }}
