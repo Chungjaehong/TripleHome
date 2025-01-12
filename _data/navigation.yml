@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "제공업무"
+    - title: "주요업무"
       section: services
     - title: "요금안내"
       section: portfolio
