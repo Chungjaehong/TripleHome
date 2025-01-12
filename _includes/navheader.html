@@ -119,3 +119,29 @@
   </header>
   {% endif %}
   <!-- End Header -->
+   
+  <style>
+    .floating-button {
+      position: fixed;
+      bottom: 20px; /* 화면 하단에서의 위치 */
+      right: 20px; /* 화면 오른쪽에서의 위치 */
+      background-color: #0057A1; /* 버튼 배경색 */
+      color: white; /* 버튼 글자색 */
+      border: none;
+      border-radius: 50%;
+      width: 60px;
+      height: 60px;
+      font-size: 30px;
+      text-align: center;
+      line-height: 60px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      cursor: pointer;
+      z-index: 1000; /* 다른 요소 위에 표시 */
+    }
+  
+    .floating-button:hover {
+      background-color: #007bff; /* 호버 시 배경색 */
+    }
+  </style>
+  
+  <a href="#contact" class="js-scroll-trigger"><button class="floating-button"><i class="fas fa-regular fa-comment"></i></button></a>
