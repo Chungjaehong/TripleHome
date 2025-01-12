@@ -21,10 +21,10 @@ en: &DEFAULT_EN
       section: timeline
     # - title: "Team"
     #   section: team
-    - title: "Contact"
+    - title: "온라인상담"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "카톡 상담바로가기"
+      url: https://pf.kakao.com/_DTNaxd
 en-US:
   <<: *DEFAULT_EN
 en-CA:

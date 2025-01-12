@@ -64,7 +64,7 @@
         font-size: 40px !important;  // 아이콘 크기 조정
       }
       h4 {
-        font-size: 10px;
+        font-size: 20px;
         line-height: 14px;
         margin-top: 12px;
       }
@@ -165,9 +165,9 @@
           font-size: 40px !important;  // 아이콘 크기 조정
         }
         h4 {
-          font-size: 18px;
+          font-size: 38px;
           line-height: 26px;
-          margin-top: 30px;
+          // margin-top: 30px;
         }
       }
       &.timeline-inverted > .timeline-panel {
@@ -194,9 +194,9 @@
         i {
           font-size: 60px !important;  // 아이콘 크기 조정
         }
-        h4 {
-          margin-top: 40px !important;
-        }
+        // h4 {
+        //   // margin-top: 40px !important;
+        // }
       }
       &.timeline-inverted > .timeline-panel {
         padding: 0 100px 20px 20px;
