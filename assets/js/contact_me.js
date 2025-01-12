@@ -8,7 +8,7 @@ $(function() {
       // additional error messages or events
     },
     submitSuccess: function($form, event) {
-      debugger;
+      
       event.preventDefault(); // prevent default submit behaviour
       // get values from FORM
 	  // var url = "https://formspree.io/" + "{% if site.formspree_form_path %}{{ site.formspree_form_path }}{% else %}{{ site.email }}{% endif %}";
